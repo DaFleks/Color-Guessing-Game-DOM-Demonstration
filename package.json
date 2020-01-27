@@ -4,7 +4,8 @@
   "description": "A color game demonstrating DOM manipulation and CSS animations.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alex Petropoulos",
   "license": "ISC",
