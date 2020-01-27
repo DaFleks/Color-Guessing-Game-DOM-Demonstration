@@ -1,0 +1,14 @@
+{
+  "name": "colorgame",
+  "version": "1.0.0",
+  "description": "A color game demonstrating DOM manipulation and CSS animations.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Petropoulos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
